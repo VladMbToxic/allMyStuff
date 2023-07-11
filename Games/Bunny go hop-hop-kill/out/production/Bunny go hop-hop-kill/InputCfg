@@ -1,0 +1,12 @@
+Buns (max = 4)
+2
+400 300 1 sprites/bun_1.png
+1000 500 2 sprites/bun_2.png
+
+Platforms
+5
+700 100 false sprites/platf_bricks.jpg
+634 400 false sprites/platf_bricks.jpg
+342 200 false sprites/platf_bricks.jpg
+876 600 false sprites/platf_bricks.jpg
+526 650 false sprites/platf_bricks.jpg
